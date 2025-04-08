@@ -25,6 +25,13 @@ I'm a passionate Frontend and Backend Fullstack Software Engineer.
 - **WhatsApp:** +91 7431926599
 - **Email:** [cklaha1947@gmail.com](mailto:cklaha1947@gmail.com)
 
+- Resturent website:- https://github.com/cklaha1947/resturentnew
+Furniture website:-  https://github.com/cklaha1947/furniture
+animated-portfolio:-  https://github.com/cklaha1947/animated-portfolio
+Rental website:-  https://github.com/cklaha1947/rental-system
+Food website:-   https://github.com/cklaha1947/foodjs-new
+Cofee Shop website:- https://github.com/cklaha1947/cofeeshop-new
+
 ---
 
 <!---
