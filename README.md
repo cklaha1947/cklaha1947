@@ -1,6 +1,6 @@
 # Hi, I’m Chanchal Kumar Laha! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Chanchal+Kumar+Laha's+GitHub+Profile)
+![Profile Banner](https://github.com/cklaha1947/my-banner-image/blob/main/img5.jpg?raw=true)
 
 I'm a passionate Frontend and Backend Fullstack Software Engineer.
 
