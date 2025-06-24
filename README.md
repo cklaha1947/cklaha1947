@@ -43,7 +43,7 @@ I'm a passionate Frontend and Backend Fullstack Software Engineer.
 `WordPress`
 
 ### 💎 JS Libraries I Love
-`Locomotive.js`, `GSAP`, `Framer Motion`, `Relax.js`, `Parallax.js`, `Swiper.js`
+`Framer Motion`, `GSAP`, `Locomotive.js`, `Relax.js`, `Parallax.js`, `Swiper.js`, `React Icons`, `Font Awesome`, `Google Fonts`
 
 ---
 
@@ -106,6 +106,31 @@ https://github.com/cklaha1947/project6-cklaha-portfolio-react
 
 ---
 
+## 📡 Backend / Fullstack Projects
+
+🛠️ AJAX PHP CRUD  
+https://github.com/cklaha1947/ajax-php-crud-best
+
+🛠️ Laravel CRUD with Auth & Middleware  
+https://github.com/cklaha1947/laravel-crud-auth-middleware
+
+📧 Laravel Email Send (Gmail SMTP with Attachment)  
+https://github.com/cklaha1947/laravel-email-gmail-send-with-attachment
+
+📨 PHP Mail Send  
+https://github.com/cklaha1947/php-mail-send
+
+🌐 PHP REST API  
+https://github.com/cklaha1947/php-rest-api-best
+
+📡 Laravel REST API  
+https://github.com/cklaha1947/laravel-rest-api
+
+🔗 Laravel Table Join  
+https://github.com/cklaha1947/laravel-table-join
+
+---
+
 ## 🌍 Live Deployments
 
 🎵 Spotify Clone  
@@ -142,4 +167,3 @@ https://cklaha1947.github.io/project6-ck-laha-portfolio-react-deploy/
 cklaha1947/cklaha1947 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
