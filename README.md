@@ -129,6 +129,12 @@ https://github.com/cklaha1947/laravel-rest-api
 🔗 Laravel Table Join  
 https://github.com/cklaha1947/laravel-table-join
 
+🔗 Laravel-AJAX CRUD  
+https://github.com/cklaha1947/laravel-ajax-CRUD.git
+
+🔗 PHP-AJAX-jQuery CRUD - live-searching - Auto Complete-searching - Number Pagination  
+https://github.com/cklaha1947/PHP-AJAX-Searching-Pagination-all-types-with--CRD-live-search-autocomplete-search-number-pagination-.git
+
 ---
 
 ## 🌍 Live Deployments
